@@ -1,0 +1,101 @@
+anyio==4.1.0
+appdirs==1.4.4
+asgiref==3.7.2
+asttokens==2.4.1
+attrs==23.2.0
+beautifulsoup4==4.12.2
+Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
+branca==0.7.0
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+click-plugins==1.1.1
+cligj==0.7.2
+colorama==0.4.6
+comm==0.2.0
+contourpy @ file:///C:/b/abs_853rfy8zse/croot/contourpy_1700583617587/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+debugpy==1.8.0
+decorator==5.1.1
+executing==2.0.1
+fiona==1.9.5
+fonttools==4.25.0
+frozendict==2.3.10
+h11==0.14.0
+html5lib==1.1
+htmltools==0.5.0
+idna==3.6
+ipykernel==6.27.1
+ipyleaflet==0.18.0
+ipython==8.18.1
+ipywidgets==8.1.1
+jedi==0.19.1
+Jinja2==3.1.2
+jupyter_client==8.6.0
+jupyter_core==5.5.0
+jupyterlab-widgets==3.0.9
+kiwisolver @ file:///C:/ci_311/kiwisolver_1676431979301/work
+linkify-it-py==2.0.2
+lxml==4.9.3
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+mdit-py-plugins==0.4.0
+mdurl==0.1.2
+multitasking==0.0.11
+munkres==1.1.4
+nest-asyncio==1.5.8
+numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
+numpy==1.26.2
+packaging==23.2
+pandas==2.1.4
+parso==0.8.3
+peewee==3.17.0
+Pillow @ file:///C:/b/abs_20ztcm8lgk/croot/pillow_1696580089746/work
+platformdirs==4.1.0
+plotly @ file:///C:/ci_311/plotly_1676443558683/work
+ply==3.11
+prompt-toolkit==3.0.42
+psutil==5.9.6
+pure-eval==0.2.2
+Pygments==2.17.2
+PyJWT==2.8.0
+pyparsing @ file:///C:/ci_311/pyparsing_1678502182533/work
+pyproj==3.6.1
+PyQt5==5.15.10
+PyQt5-sip @ file:///C:/b/abs_c0pi2mimq3/croot/pyqt-split_1698769125270/work/pyqt_sip
+python-dateutil==2.8.2
+python-multipart==0.0.6
+pytz==2023.3.post1
+pyzmq==25.1.2
+requests==2.31.0
+rsconnect-python==1.21.0
+seaborn==0.13.0
+semver==2.13.0
+shapely==2.0.2
+shiny==0.6.0
+shinywidgets==0.2.4
+sip @ file:///C:/b/abs_edevan3fce/croot/sip_1698675983372/work
+six==1.16.0
+sniffio==1.3.0
+soupsieve==2.5
+stack-data==0.6.3
+starlette==0.33.0
+statsmodels==0.14.1
+tenacity @ file:///C:/b/abs_ddkoa9nju6/croot/tenacity_1682972298929/work
+tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
+traitlets==5.14.0
+traittypes==0.2.1
+typing_extensions==4.9.0
+tzdata==2023.4
+uc-micro-py==1.0.2
+urllib3==2.1.0
+uvicorn==0.24.0.post1
+watchfiles==0.21.0
+wcwidth==0.2.12
+webencodings==0.5.1
+websockets==12.0
+widgetsnbextension==4.0.9
+xyzservices==2023.10.1
+yfinance==0.2.33
