@@ -49,6 +49,7 @@ def LifeExpHisto():
     histogram_chart = px.histogram(WorldAtlasGraphs_filtered, x="Life Expectancy", y="Population",
                                    color="Continent", hover_name="Country", marginal="rug", height=600,
                                    title="Life Expectancy Histogram", template="simple_white")
+    histogram_chart.update_layout(xaxis={"title": "Continent and Country"})
     histogram_chart.update_layout(title_x=0.5)
 
     return histogram_chart
