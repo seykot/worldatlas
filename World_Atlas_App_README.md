@@ -51,6 +51,10 @@ In making the app, several challenges arose while integrating datasets:
    - 2021 data from the historical dataset was skewed and omitted.
    - Solution: data omitted for 2021, will check back to see if it is updated on Kaggle or request custom data from Gapminder.
 
+4. **Correlation Analysis**
+   – Correlation analysis with matplotlib didn't yield any insights or patterns in the data. 
+   – Solution: Extensive exploratory analysis done using plotly graphs to unearth insights visually.
+
 ## Technical Challenges in Python Shiny App Development
 Developing with Python's Shiny framework, recently out of Alpha testing, posed several challenges:
 
