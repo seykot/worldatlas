@@ -97,6 +97,7 @@ def regionalGDPbar(input):
     df = df.dropna(subset=['Region', 'GDP'])
     animated_barchart = px.bar(df, x="Region", y="GDP", color="Continent", template="simple_white",
                                hover_name="Country", animation_group="Country", range_y=[1, 33000],
+                               height=650, width=900,
                                title="Regional GDP Growth")
 
     animated_barchart.update_layout(title_x=0.5)
