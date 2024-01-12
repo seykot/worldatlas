@@ -1,5 +1,5 @@
 
-# Read Me: World Atlas App
+# Read Me: World Atlas App (test change)
 
 ## Introduction
 Thanks for checking out the World Atlas App, inspired by Hans Rosling's enlightening Ted Talk, "The Best Stats You've Ever Seen." The goal is to present the world's information in a simplified, visually engaging manner. This application allows users to explore various socioeconomic indicators across countries, offering insights into how our world has evolved over time.
