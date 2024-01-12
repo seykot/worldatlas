@@ -140,6 +140,14 @@ def EduBirthRate():
     HigherEducationBirth = px.scatter(WorldAtlasGraphs_filtered, x="Gross tertiary education enrollment (%)", y="Birth Rate", color="Region",
                                       marginal_y="violin", trendline="ols", height=600,
                                       title="Higher Education's Impact on Birth Rate", template="simple_white")
+    HigherEducationBirth.add_annotation(text="This trend towards lower birth rates represents a 20th to 21st century <br> \
+    shift towards more equal opportunity for women in both education <br> \
+    and, by default, more women in the work force. It also illustrates <br> \
+    the rising cost of raising children.",
+                                        xref="paper", yref="paper",
+                                        x=.4, y=0.85,
+                                        showarrow=False, align="left",
+                                        font=dict(size=12, color="black"))
     HigherEducationBirth.update_layout(title_x=0.5)
 
     return HigherEducationBirth
