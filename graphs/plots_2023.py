@@ -324,7 +324,7 @@ def scatterGeoPop():
     WorldAtlasGraphs_filtered = WorldAtlasGraphs_filtered.fillna("")
     ScatterGeo_Pop = px.scatter_geo(WorldAtlasGraphs_filtered, locations="Alpha-3 code", color="Continent",
                                     projection="orthographic", opacity=.8, # size="Population", 
-                                    hover_name="Country", hover_data=["Population"],
+                                    hover_name="Country", hover_data=["Official language", "Population", "Urban_population", "Population: Labor force participation (%)"],
                                     height=650, width=900,
                                     title="Global Population in 2023")
     ScatterGeo_Pop.update_layout(title_x=0.5)
