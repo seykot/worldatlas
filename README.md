@@ -130,7 +130,7 @@ Check out the 2023 Data page and Historical Data page to find different socioeco
   - Patient Demographics Analysis: Hospitals and clinics analyzing local data for better healthcare delivery.
   - Health Policy Implementation: Using data to guide health policy at both local and national levels.
 
-– **Businesses and Startups:**
+- **Businesses and Startups:**
   - Market Analysis: Enhanced market understanding of a country's demographics can lead to expansion of offices into new countries, better-targeted marketing strategies, increasing potential profit margins. 
   - Corporate Social Responsibility (CSR) Initiatives: Data-driven CSR projects can enhance brand reputation and consumer trust, potentially boosting sales and customer loyalty.
   – Human Capital Development: Facilitating job creation internationally by providing businesses with data to identify new market opportunities and workforce needs.
