@@ -65,6 +65,7 @@ Developing with Python's Shiny framework, recently out of Alpha testing, posed s
 5. Ensuring correct package versions in `requirements.txt` for smooth user experience.
 
 ## How to Gain Insights from this App
+Check out the 2023 Data page and Historical Data page to find different socioeconomic insights, trends, and patterns such as the ones below:
 
 - **Birth Rates Trends:** View dynamic data visualizations on various birth-related data.
 - **Agriculture & Agronomic Sustainability:** Illustrating which countries prioritize their Agricultural Land and food production.
@@ -125,7 +126,7 @@ Developing with Python's Shiny framework, recently out of Alpha testing, posed s
   **Businesses and Startups:**
   - Market Analysis: Enhanced market understanding of a country's demographics can lead to expansion of offices into new countries, better-targeted marketing strategies, increasing potential profit margins. 
   - Corporate Social Responsibility (CSR) Initiatives: Data-driven CSR projects can enhance brand reputation and consumer trust, potentially boosting sales and customer loyalty.
-
+  – Human Capital Development: Facilitating job creation internationally by providing businesses with data to identify new market opportunities and workforce needs.
 
 
   ## Ideal Users
