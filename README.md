@@ -64,6 +64,22 @@ Developing with Python's Shiny framework, recently out of Alpha testing, posed s
 4. Managing environment setups in VSCode and Jupyter Notebook for different aspects of development.
 5. Ensuring correct package versions in `requirements.txt` for smooth user experience.
 
+## How to Gain Insights from this App
+
+- **Birth Rates Trends:** View dynamic data visualizations on various birth-related data.
+- **Agriculture & Agronomic Sustainability:** Illustrating which countries prioritize their Agricultural Land and food production.
+- **CO2 Emissions: Global Concerns:** Comparing emissions across the world to highlight their substantial environmental impacts.
+- **Educational Enrollment Levels of Economic Powerhouses:** Showcasing the strong trend of educational priorities of countries with top economies.
+- **Focus on Higher Education (aka Tertiary):** Explore the varied educational priorities across countries and continents.
+- **Linguistic Variety Explored:** See the prevalence of official languages and the rich tapestry of global linguistic diversity.
+- **Currency & Inflation Dynamics:** Examine CPI changes to find insights about different economic conditions and inflation trends.
+- **Urban Population Leaders:** Identifying leading urbanized nations like China, India, and the USA, and view their GDPs and CO2 Emission levels.
+- **Life Expectancy Factors:** Explore a range of Life Expectancy visualizations and their correlations with other socioeconomic data.
+- **GDP & CO2 Emissions Link:** Better understand the relationship between economic growth and environmental impact.
+- **Economic Indicators Correlation:** Analyze potential correlations and trends within various economic factors.
+- **Education & Birth Rates Connection:** Investigate the complex interaction between education levels and birth rates.
+- **Exploring Economic Trends:** Use charts to interpret correlations and trends in economic indicators for deeper insights.
+
 ## Benefits for Stakeholders as this App improves
 
 - **Policy Makers and Strategists:**
@@ -115,5 +131,6 @@ Add to the app the following features:
    – Allow users to better explore demographic structures and trends.
    – Further develop health indicator data into it's own public health part of the app. 
    – New navigation tab with data concerning Developing Nations.
+11. Add lifestyle factors to demographic data that can illustrate why people in certain countries live longer than others overall.
    
 Thank you for using the World Atlas App. Hopefully it enhances your understanding of the world and inspires curiosity about our global society.
