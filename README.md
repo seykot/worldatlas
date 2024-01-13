@@ -133,7 +133,7 @@ Check out the 2023 Data page and Historical Data page to find different socioeco
 - **Businesses and Startups:**
   - Market Analysis: Enhanced market understanding of a country's demographics can lead to expansion of offices into new countries, better-targeted marketing strategies, increasing potential profit margins. 
   - Corporate Social Responsibility (CSR) Initiatives: Data-driven CSR projects can enhance brand reputation and consumer trust, potentially boosting sales and customer loyalty.
-  – Human Capital Development: Facilitating job creation internationally by providing businesses with data to identify new market opportunities and workforce needs.
+  - Human Capital Development: Facilitating job creation internationally by providing businesses with data to identify new market opportunities and workforce needs.
 
 ## Future Works of this World Atlas App
 Add to the app the following features:
@@ -144,15 +144,16 @@ Add to the app the following features:
 4. Allow users to export data or graphs for further analysis or reporting.
 5. Add Gapminder datasets with annual data for deeper historical analysis. Swap out data on historical data page that is missing some years. 
 6. Add Plotly Dash functionality. This opens the door for increased interactive features for users.
-7. Add Correlation Analysis to homepage, allowing users to select variables to see if and how they are correlated from different countries (i.e. education and income levels).
-8. Enable users to create custom queries or filter data based on their criteria.
-9. Make the project Open Source for anybody who wants to contribute to creating a more useful.
-10. Create more utility in the app for more stakeholders.
-   – Develop a more comprehensive economic dashboard with key economic metrics for every country.
-   – Helping users can understand the environmental and educational challenges and resources of different countries.
-   – Allow users to better explore demographic structures and trends.
-   – Further develop health indicator data into it's own public health part of the app. 
-   – New navigation tab with data concerning Developing Nations.
-11. Add lifestyle factors to demographic data that can illustrate why people in certain countries live longer than others overall.
+7. Add lifestyle factors to demographic data that can illustrate why people in certain countries live longer than others overall.
+8. Add Correlation Analysis to homepage, allowing users to select variables to see if and how they are correlated from different countries (i.e. education and income levels).
+9. Enable users to create custom queries or filter data based on their criteria.
+10. Make the project Open Source for anybody who wants to contribute to creating a more useful.
+11. Create more utility in the app for more stakeholders.
+   - Develop a more comprehensive economic dashboard with key economic metrics for every country.
+   - Helping users can understand the environmental and educational challenges and resources of different countries.
+   - Allow users to better explore demographic structures and trends.
+   - Further develop health indicator data into it's own public health part of the app. 
+   - New navigation tab with data concerning Developing Nations.
+
    
 Thank you for using the World Atlas App. Hopefully it enhances your understanding of the world and inspires curiosity about our global society.
