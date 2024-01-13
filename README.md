@@ -48,7 +48,7 @@ In making the app, several challenges arose while integrating datasets:
    - Solution: Use data from the previous year to prevent app glitches. Alternative options include imputing the mean, using 4-5 year increments, or substituing with Gapminder data.
 
 3. **Data Quality Concerns**
-   - 2021 data from the historical dataset was skewed and omitted.
+   - 2021 data from the historical dataset was skewed.
    - Solution: data omitted for 2021, will check back to see if it is updated on Kaggle or request custom data from Gapminder.
 
 4. **Correlation Analysis**
@@ -64,4 +64,56 @@ Developing with Python's Shiny framework, recently out of Alpha testing, posed s
 4. Managing environment setups in VSCode and Jupyter Notebook for different aspects of development.
 5. Ensuring correct package versions in `requirements.txt` for smooth user experience.
 
+## Benefits for Stakeholders as this App improves
+
+- **Policy Makers and Strategists:**
+  - Data-Driven Decisions: Access to a broad range of indicators for informed decision-making.
+  - Strategic Planning: Identifying urgent intervention areas for targeted policies and programs.
+
+- **Researchers and Analysts:**
+  - Comprehensive Data Analysis: Central repository for in-depth analysis and research.
+  - Trend Identification: Tracking long-term trends for forecasting and modeling.
+
+- **Program and Project Managers:**
+  - Program Design and Implementation: Designing effective programs based on regional data.
+  - Impact Assessment: Assessing the impact of initiatives to adjust strategies.
+
+- **Field Workers and Local Offices:**
+  - Localized Information: Understanding specific regional challenges and resources.
+  - Community Engagement: Using data to educate and engage local communities.
+
+- **Educators and Advocacy Groups:**
+  - Awareness and Education: Utilizing the app for educational purposes and awareness.
+  - Advocacy and Campaigns: Creating data-backed advocacy campaigns.
+
+- **Donors and Funders:**
+  - Funding Allocation: Insight into the most impactful funding areas.
+  - Accountability and Transparency: Tracking the effectiveness of funded projects.
+
+  ## Ideal Users
+
+- **Data-Driven Leaders:** Decision-makers who rely on data analysis and visualization.
+- **Innovative Educators and Advocates:** Using technology and data for education and advocacy.
+- **Global Health Specialists:** Professionals needing up-to-date health and environmental data.
+- **Economic Analysts and Environmentalists:** Experts requiring data on economic and environmental trends.
+
+## Future Works of this World Atlas App
+Add to the app the following features:
+
+1. Write a function to calculate a Socioeconomic Score that measures a society's overall quality of life, weighted in areas: economic, educational, environmental, demographic, and health. 
+2. Create navigation tab for predictive analytics with future projections in areas of Population, CO2 Emissions, GDP, and other socioeconomic metric.
+3. Create navigation tab using APIs with real time data on all types of metrics (i.e. current world flight data, freight shipping data, top economy's stock markets, songs topping the charts country-by-country on Spotify)
+4. Allow users to export data or graphs for further analysis or reporting.
+5. Add Gapminder datasets with annual data for deeper historical analysis. Swap out data on historical data page that is missing some years. 
+6. Add Plotly Dash functionality. This opens the door for increased interactive features for users.
+7. Add Correlation Analysis to homepage, allowing users to select variables to see if and how they are correlated from different countries (i.e. education and income levels).
+8. Enable users to create custom queries or filter data based on their criteria.
+9. Make the project Open Source for anybody who wants to contribute to creating a more useful.
+10. Create more utility in the app for more stakeholders.
+   – Develop a more comprehensive economic dashboard with key economic metrics for every country.
+   – Helping users can understand the environmental and educational challenges and resources of different countries.
+   – Allow users to better explore demographic structures and trends.
+   – Further develop health indicator data into it's own public health part of the app. 
+   – New navigation tab with data concerning Developing Nations.
+   
 Thank you for using the World Atlas App. Hopefully it enhances your understanding of the world and inspires curiosity about our global society.
